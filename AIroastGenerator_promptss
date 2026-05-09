@@ -1,0 +1,24 @@
+MAIN PROMPT
+Create a simple C++ program that generates funny roast messages.
+
+The program should ask the user to enter their name and then randomly display one roast from a list of at least 10 roast lines.
+
+Use vectors and random functions.
+Make sure the user’s name appears inside the roast message.
+
+Also add comments so the code is easy to understand for beginners.
+
+
+
+
+Bug Fixing Prompt
+My roast generator program is showing the same roast every time I run it.
+Can you check the random function part and fix the issue?
+
+
+
+
+Another Natural Prompt for Placeholder Issue
+The program is running but the user name is not appearing properly in the roast message.
+Please fix the code so the entered name is displayed correctly in every roast.
+
