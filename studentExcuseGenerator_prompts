@@ -1,0 +1,24 @@
+MAIN PROMPTS 
+Write a simple C++ program that generates random excuses for missing homework or assignments.
+
+The program should ask the user for their name and then display one random excuse using that name.
+
+Store at least 10 excuse messages in a vector and use random selection so the excuse changes every time the program runs.
+
+Keep the code beginner-friendly and add comments for understanding.
+
+
+
+Bug Fixing Prompt
+
+My program is showing the same excuse every time I run it.
+
+Please check the random selection part and fix the issue.
+
+
+
+Placeholder Fix Prompt
+
+The program is working, but the user's name is not appearing correctly in the excuse message.
+
+Please fix the code so the entered name is displayed properly in all excuses.
